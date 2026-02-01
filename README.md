@@ -20,5 +20,5 @@ Designed specifically for **Ubuntu 20.04 (GNOME 3.36)**.
 
 ## 🖼 Screenshot
 
-> *(Optional: Add a screenshot here)*
+> ![Wi-Fi Menu](screenshots/menu.png)
 
