@@ -1,0 +1,7 @@
+{
+  "uuid": "wifi-refresh@techindu.com",
+  "name": "WiFi Refresh Button",
+  "description": "Adds refresh & auto-connect button to WiFi menu",
+  "version": 1,
+  "shell-version": ["3.36"]
+}
