@@ -112,13 +112,12 @@ killall -3 gnome-shell
 
 ## 🔧 Compatibility
 
-  OS             GNOME Version   Status
-  -------------- --------------- -----------------
-  Ubuntu 20.04   3.36            ✅ Supported
-  Ubuntu 22.04   42+             ⚠️ Experimental
-  Ubuntu 24.04   46+             ⚠️ Experimental
+| OS           | GNOME Version | Status          |
+|--------------|---------------|-----------------|
+| Ubuntu 20.04 | 3.36          | ✅ Supported    |
+| Ubuntu 22.04 | 42+           | ⚠️ Experimental |
+| Ubuntu 24.04 | 46+           | ⚠️ Experimental |
 
-------------------------------------------------------------------------
 
 ## 🤝 Contributing
 
